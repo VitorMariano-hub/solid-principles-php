@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"PaymentBoletoTest::testPayBoleto":0.007,"PaymentCreditCardTest::testPayCreditCard":0.001,"ClientPremiumTest::testCalculate":0.001,"ClientRegularTest::testCalculate":0,"ClientVipTest::testCalculate":0,"UserDataFetcherTest::testFetchUser":0.002,"UserReportGeneratorTest::testReportGenerator":0.012,"UserReportSaverTest::testSave":0.001}}

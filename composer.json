@@ -1,0 +1,22 @@
+{
+    "name": "solid/principles",
+    "description": "Solid Principles Php",
+    "autoload": {
+        "psr-4": {
+            "Solid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitor",
+            "email": "vitorpereira@profkenny.com.br"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
+}
