@@ -1,6 +1,6 @@
 # SOLID Principles in PHP 🧱
 
-Este repositório contém exemplos práticos dos 5 princípios do SOLID aplicados em PHP com foco em boas práticas de design de software.
+Projeto realizado para validar meus conhecimentos em SOLID.
 
 ## 📚 Princípios implementados
 
